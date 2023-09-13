@@ -10,7 +10,7 @@
 1) Ergometer_Baseline.m: To record the baseline of the toques (open the .m file to read more), and the MVC. 
 2) Ergometer_GUI_APP.m: To implement the visual feedback for the experiment. 
 3) ClosePTB.m: The built function is used to close the PTB screen by pressing the "esc" key. 
-4) io64.mexw64: A Mex-File Plug-in for MATLAB Port I/O.
+4) io64.mexw64: A Mex-File Plug-in for MATLAB Port I/O. *Make sure it is in the same folder as the others.
 5) test_TTL.m: A short m. file to test the address of the serial port and trigger I/O.
 
 # Port I/O markers:
