@@ -7,8 +7,11 @@
 6) Run "Ergometer_GUI_APP.m" to start the experiment.
 
 # What's the purpose of each file?
-1) Ergometer_Baseline.m :
-2) Ergometer_GUI_APP.m :
-3) ClosePTB.m :
-4) io64.mexw64 :
-5) test_TTL.m :
+1) Ergometer_Baseline.m: To record the baseline of the toques (open the .m file to read more), and the MVC. 
+2) Ergometer_GUI_APP.m: To implement the visual feedback for the experiment. 
+3) ClosePTB.m: The built function to close the PTB screen. 
+4) io64.mexw64: A Mex-File Plug-in for MATLAB Port I/O.
+5) test_TTL.m: A short m. file to test the address of the serial port and trigger I/O.
+
+# I/O naming:
+The names of different triggers don't matter in this project. Check the details in the .m file. 
