@@ -13,5 +13,5 @@
 4) io64.mexw64: A Mex-File Plug-in for MATLAB Port I/O.
 5) test_TTL.m: A short m. file to test the address of the serial port and trigger I/O.
 
-# I/O naming:
+# Port I/O markers:
 The names of different triggers don't matter in this project. Check the details in the .m file. 
