@@ -4,3 +4,6 @@ MATLAB-based user interfaces for applying the ergometer to the experimental para
 ## Fatigue project
 Purpose of the experiment...
 The ratio(percentage) of applied force to  MVC will be presented in the format of a real-time bar. The height of the bar represents the percentage. The experimental task is finished until the participant feels fatigued.
+
+## Equiptment 
+(1) 
